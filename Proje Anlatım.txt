@@ -23,3 +23,17 @@ Rekabet Avantajları:
 
 Bu proje, fiziksel rehabilitasyon ve sağlık alanında hizmet veren profesyoneller ile bireysel kullanıcılar arasında köprü kurmayı amaçlamaktadır. Müşterilerimize en iyi ürünleri ve hizmetleri sunarak, sağlıklı ve aktif bir yaşam tarzını teşvik etmeyi hedefliyoruz.
 
+
+Proje Yapılış
+
+Projem önyüz için Html, Css ve js kullanılacaktır, arkayüz için dotnet ve entityframeworkten sql server kullanılacaktır.
+Ana Sayfa: Göze çarpan ürün kategorileri bulunmaktadır ve basılınca o ürün kategorisine gidecektir.
+Ürünler: Bu sayfada ürünlerin tamamı yer alacaktır ve 2. 3. sayfaya yönlendirecektir.
+Sepet: Bu sayfada görsel olarak ürünler mevcuttur ve örnek fiyat yazmaktadır.
+İletişim: Bu sayfada kullanıcı mesaj gönderebilmektedir ve eğer yapabilirsem admin sayfasında bu mesaj gözükecektir.
+Hakkımızda: Bu sayfada web sitesi şirketi hakkında bilgiler içermektedir.
+Kayıt ol: Kullanıcılar buradan kayıt olup bilgileri databasede tutulacaktır.
+
+eğer yapabilirsem admin kullanıcıları ve kullanıcı mesajlarını görebilmektedir.
+
+
